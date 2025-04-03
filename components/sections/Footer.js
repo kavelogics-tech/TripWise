@@ -19,7 +19,7 @@ export async function Footer() {
         <Link
           aria-label={"Link to Github of the developer"}
           className="inline text-white"
-          href="https://github.com/kavelogics-tech/"
+          href="https://kavelogics.com"
           target="_blank"
           rel="noopener noreferrer"
         >

@@ -24,9 +24,9 @@ const tradegothic = localFont({
 });
 
 export const metadata = {
-  title: "Golob Travel Agency",
+  title: "TripWise Travel Agency",
   description:
-    "Golob Travel Agency is a travel agency that provides top-notch travel services.",
+    "TripWise Travel Agency is a travel agency that provides top-notch travel services.",
   keywords: [
     "travel",
     "agency",
@@ -43,11 +43,11 @@ export const metadata = {
     "redux",
     "web app",
   ],
-  metadataBase: new URL("https://golob-travel-agency.vercel.app"),
+  metadataBase: new URL("https://trip-wise-kappa.vercel.app/"),
   openGraph: {
-    title: "Golob Travel Agency",
+    title: "TripWise Travel Agency",
     description:
-      "Golob Travel Agency is a travel agency that provides top-notch travel services (fake, personal project).",
+      "TripWise Travel Agency is a travel agency that provides top-notch travel services (fake, personal project).",
     siteName: "Golob Travel Agency",
     images: [
       {
